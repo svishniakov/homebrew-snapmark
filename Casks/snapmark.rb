@@ -1,6 +1,6 @@
 cask "snapmark" do
-  version "1.1.2"
-  sha256 "95a68ba3eb4afedf64a0448218ccc28b7319e983d4fc397ac9bff865e25e02ea"
+  version "1.1.3"
+  sha256 "4c1236b3540c41f8d4eb1fff4490aa8d6dc996a4d3ebcf508c366f2d698275cf"
 
   url "https://github.com/svishniakov/snapmark/releases/download/v#{version}/SnapMark-#{version}.dmg"
   name "SnapMark"
